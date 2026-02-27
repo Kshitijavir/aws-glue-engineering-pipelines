@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department,salary,joining_date,city,is_active
+1001,Rahul,Sharma,rahul.sharma@gmail.com,Engineering,85000,2021-03-15,Mumbai,true
+1002,Anita,Verma,anita.verma@gmail.com,HR,60000,2020-07-22,Delhi,true
+1003,Vikram,Singh,vikram.singh@gmail.com,Finance,72000,2019-11-10,Bangalore,false
+1004,Neha,Kapoor,neha.kapoor@gmail.com,Engineering,95000,2022-01-05,Hyderabad,true
+1005,Amit,Joshi,amit.joshi@gmail.com,Marketing,50000,2018-09-18,Pune,false
+1006,Priya,Reddy,priya.reddy@gmail.com,Engineering,88000,2021-12-12,Chennai,true
+1007,Karan,Mehta,karan.mehta@gmail.com,Finance,78000,2020-04-30,Ahmedabad,true
+1008,Sneha,Iyer,sneha.iyer@gmail.com,HR,61000,2019-06-25,Kolkata,false
+1009,Arjun,Nair,arjun.nair@gmail.com,Engineering,99000,2023-02-14,Mumbai,true
+1010,Divya,Patel,divya.patel@gmail.com,Marketing,54000,2021-08-19,Delhi,true
